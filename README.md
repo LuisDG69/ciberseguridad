@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="UTF-8">
@@ -144,7 +144,7 @@
 
 <li>Haz copias de seguridad regulares de tus datos importantes.</li>
 
-</div>
+
 
 <!-- Sección sobre la carrera en ciberseguridad -->
 <div class="content">
@@ -259,6 +259,4 @@
     </div>
     <footer>
     Créditos: Analista en ciberseguridad Luis David Garcia Garcia
-    </footer>
-    </body>
-    </html>  
+
