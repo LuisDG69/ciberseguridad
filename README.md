@@ -61,7 +61,7 @@
 </head>
 <body>
 <header>
-<h1>Ciberseguridad</h1>
+
 </header>
 
 <div class="banner">
