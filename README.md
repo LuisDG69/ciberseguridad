@@ -121,7 +121,7 @@
 
 <p>El pensamiento de un hacker puede variar según el tipo de hacker. Los hackers éticos o de sombrero blanco utilizan sus habilidades y conocimientos para ayudar a las organizaciones a mejorar su seguridad informática. Los hackers malintencionados o de sombrero negro buscan explotar vulnerabilidades para su propio beneficio. Los hackers pueden tomar medidas robustas para robar información porque la información es valiosa y puede ser utilizada para obtener ganancias financieras o para otros fines malintencionados.</p>
 
-</div>
+
 
 <!-- Sección sobre medidas de protección contra hackers -->
 <div class="content">
