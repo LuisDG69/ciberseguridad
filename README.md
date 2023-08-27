@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <meta charset="UTF-8">
@@ -212,7 +211,7 @@
 
 <ul>
 
-<li><a href="https://ameci.org.mx/">Asociación Mexicana de Ciberseguridad (AMECI)</a></li>
+<li><a href="https://www.ameci.org/">Asociación Mexicana de Ciberseguridad (AMECI)</a></li>
 
 </ul>
 
